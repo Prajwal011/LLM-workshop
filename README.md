@@ -15,20 +15,16 @@ This repository contains materials from a seminar/workshop focused on Large Lang
 
 *   **LLM Projects:** This section showcases several projects developed using LLMs, demonstrating their capabilities in different domains.
 
-    *   **Blog Generator:** An LLM-powered project that automatically generates blog posts based on provided prompts or keywords.  *(Further details about this project, such as specific techniques used or example outputs, could be added here)*
-    *   **Link Sage:**  *(Describe the Link Sage project here. What does it do? What LLM techniques does it use?)*  For example:  A project that uses LLMs to intelligently curate and summarize relevant links based on a given topic.
-    *   **Style Gen:** *(Describe the Style Gen project here. What does it do? What LLM techniques does it use?)* For example: A project that uses LLMs to generate text in different writing styles.
+    *   **Blog Generator:** An LLM-powered project that automatically generates blog posts based on provided prompts or keywords. 
+    *   **Link Sage:**   For example:  A project that uses LLMs to intelligently curate and summarize relevant links based on a given topic.
+    *   **Style Gen:**  For example: A project that uses LLMs to generate text in different writing styles.
 
 ## Getting Started
 
 To get started with these materials, you will need to:
 
-1.  Clone this repository:  `git clone https://github.com/[your-username]/[your-repository-name].git` (Replace with your actual repository URL)
-2.  Navigate to the cloned directory: `cd [your-repository-name]`
-3.  *(Add specific instructions for setting up the environment.  This is crucial!)*  For example:
-    *   Install the required dependencies: `pip install -r requirements.txt` (If you have a `requirements.txt` file)
-    *   Ensure you have access to the necessary LLM APIs and have configured your credentials.  *(Provide specific instructions on how to do this, including any API keys or environment variables that need to be set)*
-4.  Open the Jupyter Notebook: `jupyter notebook LLM_workshop_notebook.ipynb`
+1.  Clone this repository:  `git clone https://github.com/Prajwal011/LLM-workshop` (Replace with your actual repository URL)
+2.  Open the Jupyter Notebook: `jupyter notebook LLM_workshop_notebook.ipynb`
 
 ## Explore More LLMs
 
