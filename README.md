@@ -28,17 +28,5 @@ To get started with these materials, you will need to:
 
 ## Explore More LLMs
 
-<br>  *(Leave this blank for you to add the link to the other repository)*<br>
-<br> *Check out this other repository for more LLM resources: [[link to other repo](https://github.com/Prajwal011/LLM-s)]*
+<br> *Check out this other repository for more LLM resources: [[link to other LLM repo](https://github.com/Prajwal011/LLM-s)]*
 
-## Contributing
-
-*(Optional) If you welcome contributions, add information about how others can contribute to the project.*
-
-## License
-
-*(Optional) Specify the license under which the materials are distributed.*
-
-## Contact
-
-*(Optional) Provide contact information if you'd like to be reached for questions or discussions.*
