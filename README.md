@@ -2,6 +2,8 @@
 
 This repository contains materials from a seminar/workshop focused on Large Language Models (LLMs).  It includes a hands-on notebook covering key concepts and demonstrations of practical LLM projects.
 
+### **If you encounter error opening any notebooks paste above notebook link in https://nbviewer.org/**
+
 ## Contents
 
 *   **LLM Workshop Notebook:** This Jupyter Notebook provides a comprehensive overview of LLMs, covering both theoretical foundations and practical applications.
